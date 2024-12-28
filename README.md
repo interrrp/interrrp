@@ -25,6 +25,10 @@ I build interesting software and write questionable articles.
 
 Made with Astro and TailwindCSS. Taught me a lot about modern front-end development.
 
+### CHIP-8 emulator ([repo](https://github.com/interrrp/chip8))
+
+Made with Rust. Taught me about system emulation.
+
 ### Chess engine ([repo](https://github.com/interrrp/Salmon))
 
 Made with C#. Taught me about project structuring and unit testing in .NET.
